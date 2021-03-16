@@ -2,11 +2,11 @@ Modifications/improvements to MoW assets.
 
 1. Birds
 http://mowtestweb.azurewebsites.net/scenario.play?srcpage=scenarios&scenario=birds&text=birds
-Sprite: birdR.png
+Sprite: Sprites\birdR.png
 
 Modify the sprite to an explicit and characteristic craw instead of generic "bird" image.
 
-2. beer-sample.zip
+2. beer-sample
 Unity 2019.4.16f1
 Modify 3D objects (materials, maps, textures, shaders, etc.) to provide quality realistic looks for beer objects in Unity 2019.4
 
