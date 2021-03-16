@@ -1,0 +1,28 @@
+Modifications/improvements to MoW assets.
+
+1. Birds
+http://mowtestweb.azurewebsites.net/scenario.play?srcpage=scenarios&scenario=birds&text=birds
+Sprite: birdR.png
+
+Modify the sprite to an explicit and characteristic craw instead of generic "bird" image.
+
+2. beer-sample.zip
+Unity 2019.4.16f1
+Modify 3D objects (materials, maps, textures, shaders, etc.) to provide quality realistic looks for beer objects in Unity 2019.4
+
+3. Train
+http://mowtestweb.azurewebsites.net/scenario.play?srcpage=scenarios&scenario=train&text=go%20train%20go
+Improve/redo scenario graphics.
+Create cartoon-styled scene animation objects:
+- Steam train sprite
+- Smoke sprites
+- Backdrop (sky, clouds, moon and stars (or sun, if daylight), etc.)
+- Layer 1 - far mountains
+- Layer 2 - hills, trees, etc.
+- Layer 3 - rail tracks.
+
+18:46 2021-02-27, Sat
+
+QQ:
+Are the tasks clear? Any questions?
+Familiar with Unity 2019.4 ?
